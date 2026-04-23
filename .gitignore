@@ -1,5 +1,4 @@
 node_modules/
-*.pdf
 package.json
 package-lock.json
 print_pdf.js
